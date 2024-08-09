@@ -2,7 +2,7 @@
   
 <h1>About Me</h1>
 
-- 🔭 I am an undergraduate senior pursuing Bachelor's in Computer Science.
+- 🔭 Currently pursuing Masters in Computer Science from New York University. I hold a Bachelors degree in Computer Science from VIT Vellore.
 - 👀 I find my technical interests in Full-stack development, Open Source 💖, System Designing, DevOps, Competitive Coding.<WebDevlopment/>
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons.
 - 📫 Reach out to me = () => { E-Mail: ynakilan@gmail.com }
