@@ -16,7 +16,6 @@
 
 - **Skein Technologies**: Currently working as Software developer intern, my role involves crafting frontend and backend solutions for clients.
 - **Hindustan Aeornautical Limited**: Worked as a Student Research intern which involved designing an anomaly detection model to detect anomalies in Unmanned Aerial Vehicles(UAVs).
-- **College Ranker**: Worked as a Data science intern and worked with the forecasting team.
 - **Hacktoberfest**: Contributed to Open Source Projects and organizations.
 
 <h1>Connect with me for :</h1>
